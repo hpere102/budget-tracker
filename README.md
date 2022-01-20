@@ -4,7 +4,7 @@
 
 Budget Tracker is a progressive web application in which the user can track their transactions either online or offline. Using service workers and indexedDB, information that is inserted to the application will be saved offline and later inputed automatically once connection is reestablished. The application will also be completely functional while offline only if used before by the same browser.
 
-![Application link](https://powerful-coast-68918.herokuapp.com/)
+[View Application](https://powerful-coast-68918.herokuapp.com/)
 
 ![Application screenshot](media/budget.png)
 
